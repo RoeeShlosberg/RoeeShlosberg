@@ -22,7 +22,6 @@ Fast learner, detail-oriented, and a collaborative team player seeking challengi
 
 ### 🛠️ Languages & Skills
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg" title="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
@@ -42,10 +41,10 @@ Fast learner, detail-oriented, and a collaborative team player seeking challengi
 
 ### 🔭 Projects
 - **Netflix** – Full-stack, cross-platform streaming simulation. Powered by a **C++ recommendation engine**, **Node.js APIs**, **React frontend**, and **Android client**. Integrates with **MongoDB** for data storage and uses Docker for orchestration.  
-- **TaskPilot** – AI-powered task manager API built with **FastAPI**. Includes user authentication, Redis caching, AI integration, and Dockerized architecture.
+- **TaskPilot** – AI-powered task manager API built with **FastAPI**. Includes user authentication, Redis caching, AI integration, **React Client**, and Dockerized architecture.
 - **ShareSphere** – Backend system for managing users and shared content, built with **Nest.js (TypeScript)** and **PostgreSQL**. Features modular REST APIs, validation, authentication, and a fully Dockerized setup.  
-- **Arkanoid** – Java-based implementation of the classic Arkanoid game demonstrating object-oriented programming principles and design patterns. Features multiple levels, collision physics, and scoring system.  
-- **MinProtBert** – Compact NLP protein model (**MinProtBERT**) for DNA-binding prediction and bioinformatics tasks, distilled from ProteinBERT.  
+- **Arkanoid** – **Java-based** implementation of the classic Arkanoid game demonstrating **object-oriented programming principles and design patterns.** Features multiple levels, collision physics, and scoring system.  
+- **MinProtBert** – Compact NLP model for protein bioinformatics, distilled from ProteinBERT. Built with **PyTorch** and **Transformers**, pretrained and fine-tuned for token-level and whole-protein classification.
 - **BookStore** – Full-stack bookstore application using **.NET 8** and **Angular 17**. Features a secure REST API with JWT authentication, comprehensive test coverage with xUnit, and a complete CI/CD pipeline.  
 
 ---
